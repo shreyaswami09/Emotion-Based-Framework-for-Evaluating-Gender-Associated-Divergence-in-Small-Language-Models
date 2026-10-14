@@ -3,7 +3,7 @@ This paper presents a methodology to statistically evaluate and quantify gender-
 
 It does so through replication, t-testing, and multiple test correction to determine significance. Metrics are also calculated using magnitude of the emotional divergence.
 
-This framework compliments existing frameworks with a new, emotion-based perspective and focuses specifically on SLM behavior.
+This framework compliments existing frameworks, like the Vacuous Neutrality Framework, with a new, emotion-focused perspective and concentrates specifically on SLM behavior.
 
 ## Objective
 Recently, there has been a surge in usage of language models due to the plummeting token costs. But because of their cost-efficiency and localization, much of the industrial usage has shifted from large to small language models. However, the this shift has not been paralleled by equivalent evaluation in SLMs' multi-faceted ethical concerns. As a result, much of the current testing performed on SLM objectivity is carried out using LLM frameworks. 
