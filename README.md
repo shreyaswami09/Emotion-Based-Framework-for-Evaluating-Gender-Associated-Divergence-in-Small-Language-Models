@@ -1,6 +1,6 @@
 ## Ethics of AI: A Framework for Evaluating Gender-Associated Emotional Divergence in Small Language Models
 
-This paper presents a methodology to statistically evaluate and quantify gender-associated emotional divergence in small language models.
+This paper presents a methodology to statistically evaluate and quantify gender-associated emotional divergence in small language models (SLMs).
 
 It does so through replication, t-testing, and multiple test correction to determine significance. Metrics are also calculated using magnitude of the emotional divergence.
 
